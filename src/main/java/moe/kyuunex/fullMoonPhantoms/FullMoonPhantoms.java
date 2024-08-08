@@ -19,7 +19,7 @@ public final class FullMoonPhantoms extends JavaPlugin {
                 if (dayOfMonth == 28) {
                     // Set the gamerule doInsomnia to true
                     Bukkit.getServer().dispatchCommand(Bukkit.getConsoleSender(), "gamerule doInsomnia true");
-                    getLogger().info("Gamerule doInsomnia set to true on the 28th of the month.");
+                    getLogger().info("Gamerule doInsomnia set to true, as it's the 28th of the month.");
                 } else {
                     // Set the gamerule doInsomnia to false
                     Bukkit.getServer().dispatchCommand(Bukkit.getConsoleSender(), "gamerule doInsomnia false");
