@@ -1,4 +1,4 @@
 name: FullMoonPhantoms
-version: '1.0-SNAPSHOT'
+version: '1.0'
 main: moe.kyuunex.fullMoonPhantoms.FullMoonPhantoms
 api-version: '1.20'
